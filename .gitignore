@@ -1,0 +1,24 @@
+# Node modules
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/build/
+**/out/
+.vite/
+coverage/
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Editors and IDEs
+.idea/
+.vscode/
+.DS_Store
+
+# Uploads and runtime storage
+uploads/
+server/uploads/
+client/uploads/

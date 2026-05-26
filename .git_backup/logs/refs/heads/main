@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 b72054bde4359f558af61f9eaddcdbe9f1ef9958 Your Name <your-email@example.com> 1779776297 +0530	commit (initial): Initial commit
+b72054bde4359f558af61f9eaddcdbe9f1ef9958 b72054bde4359f558af61f9eaddcdbe9f1ef9958 Your Name <your-email@example.com> 1779776302 +0530	Branch: renamed refs/heads/master to refs/heads/main
+b72054bde4359f558af61f9eaddcdbe9f1ef9958 b72054bde4359f558af61f9eaddcdbe9f1ef9958 Your Name <your-email@example.com> 1779776366 +0530	Branch: renamed refs/heads/main to refs/heads/main
+b72054bde4359f558af61f9eaddcdbe9f1ef9958 836d124f6d7b68af45d78dea4bf1306379af16c3 Your Name <your-email@example.com> 1779776588 +0530	commit: Add .gitignore
+836d124f6d7b68af45d78dea4bf1306379af16c3 836d124f6d7b68af45d78dea4bf1306379af16c3 Your Name <your-email@example.com> 1779776781 +0530	Branch: renamed refs/heads/main to refs/heads/main
+836d124f6d7b68af45d78dea4bf1306379af16c3 171e86c0599c237c6aa8e184b2be218f2f2a3a49 Your Name <your-email@example.com> 1779776822 +0530	pull --rebase origin main (finish): refs/heads/main onto 12eddf0d07764faa4bbbe50ed801633347d98ace
